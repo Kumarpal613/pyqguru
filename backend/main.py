@@ -1,5 +1,5 @@
 from pathlib import Path
-
+import os
 from fastapi import APIRouter, FastAPI, HTTPException, status
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -11,7 +11,7 @@ api_router = APIRouter(prefix="/api")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins= [os.getenv("FRONTEND_URL") or "*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+const baseurl = import.meta.env.VITE_API_URL;
+
 function ResultsPage({ submission, onExit }) {
   const [collapsedSections, setCollapsedSections] = useState({});
 

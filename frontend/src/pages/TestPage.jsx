@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 
+const baseurl = import.meta.env.VITE_API_URL;
+
 function TestPage({ onComplete }) {
   const [allQuestions, setAllQuestions] = useState([]);
 
@@ -19,7 +21,7 @@ function TestPage({ onComplete }) {
   // Fetch Current section
   useEffect(() => {
     async function fetchQuestions() {
-      const response = await fetch(`http://127.0.0.1:8000/api/questions`);
+      const response = await fetch(`${baseurl}/api/questions`);
 
       const data = await response.json();
 
@@ -147,7 +149,7 @@ function TestPage({ onComplete }) {
           }),
         );
 
-        const response = await fetch("http://127.0.0.1:8000/api/test/submit", {
+        const response = await fetch(`${baseurl}/api/test/submit`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ answers }),
