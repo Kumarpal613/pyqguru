@@ -1,0 +1,1012 @@
+[
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 1,
+    "question_text": "Select the option that will correctly fill all the blanks in the series. m _ n m _ n _ _ n m _ _",
+    "options": {
+      "A": "a a a m n a",
+      "B": "a a m a a n",
+      "C": "m n o o o o",
+      "D": "a a m n m a"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 2,
+    "question_text": "If 5 + 3 = 16 and 7 + 4 = 33, then 6 + 2 = ?",
+    "options": { "A": "32", "B": "14", "C": "16", "D": "18" },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 3,
+    "question_text": "What number will replace the question mark? 2, 6, 14, 30, ?, 126",
+    "options": { "A": "46", "B": "60", "C": "62", "D": "64" },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 4,
+    "question_text": "Statement: Excessive use of plastic bags harms the environment. Assumptions: I. Plastic bags are non-biodegradable. II. People are aware of environmental damage caused by plastic. Choose the correct option.",
+    "options": {
+      "A": "Only I is implicit",
+      "B": "Only II is implicit",
+      "C": "Both I and II are implicit",
+      "D": "Neither I nor II is implicit"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 5,
+    "question_text": "Complete the series: 3, 9, 27, ?, 243",
+    "options": { "A": "54", "B": "72", "C": "81", "D": "90" },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 6,
+    "question_text": "Find the odd one out.",
+    "options": {
+      "A": "Article 14",
+      "B": "Article 19",
+      "C": "Article 21",
+      "D": "Article 360"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 7,
+    "question_text": "Find the odd one out.",
+    "options": { "A": "F12", "B": "H16", "C": "J20", "D": "K25" },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 8,
+    "question_text": "Statement: The company reported its highest profit in a decade. Conclusions: I. The company performed poorly in previous years. II. The company's recent strategies were effective.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both follow",
+      "D": "Neither follows"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 9,
+    "question_text": "If in a certain code, CAT is written as 3-1-20 and DOG as 4-15-7, then how will PIG be written?",
+    "options": { "A": "16-9-7", "B": "15-9-7", "C": "16-8-7", "D": "15-8-6" },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 10,
+    "question_text": "How many meaningful four-letter words can be formed using the letters of the word \"CLOUD\", using each letter only once?",
+    "options": { "A": "2", "B": "1", "C": "8", "D": "4" },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 11,
+    "question_text": "If '+' means '×', '−' means '+', 'x' means '÷', and '÷' means '−', then find the value of: 18 − 6 + 12 × 3 ÷ 2",
+    "options": { "A": "8", "B": "40", "C": "10", "D": "12" },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 12,
+    "question_text": "Choose the address that is exactly identical to the one given below. Flat 402, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016",
+    "options": {
+      "A": "Flat 402 Emerald Residency Lakeview Road Pune Maharashtra 411016",
+      "B": "Flat 402, Emerald Residency, Lake View Rd., Pune, Maharashtra – 411061",
+      "C": "Flat 420, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016",
+      "D": "Flat 402, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 13,
+    "question_text": "What is the average of the first 7 odd numbers?",
+    "options": { "A": "6", "B": "7", "C": "8", "D": "9" },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 14,
+    "question_text": "The ratio of two numbers is 7 : 9 and their sum is 256. Find the numbers.",
+    "options": {
+      "A": "98 and 126",
+      "B": "112 and 144",
+      "C": "119 and 137",
+      "D": "126 and 130"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 15,
+    "question_text": "A is the brother of B. C is the mother of B. D is the father of C. How is D related to A?",
+    "options": {
+      "A": "Father",
+      "B": "Grandfather",
+      "C": "Uncle",
+      "D": "Cousin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 16,
+    "question_text": "If 8 + 7 = 56 and 7 + 5 = 35, then 9 + 5 = ?",
+    "options": { "A": "36", "B": "45", "C": "52", "D": "60" },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 17,
+    "question_text": "If \"LION\" is coded as 12@9@15@14 and \"TIGER\" as 20@9@7@5@18, how will \"BEAR\" be coded?",
+    "options": {
+      "A": "2@5@1@18",
+      "B": "2@5@18@1",
+      "C": "1@18@5@2",
+      "D": "2@1@18@5"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 18,
+    "question_text": "If '%' means '+', '+' means '÷', '÷' means '×', and 'x' means '−', then find the value of: 20 ÷ (5 % 3) + 4",
+    "options": { "A": "7", "B": "40", "C": "11", "D": "13" },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 19,
+    "question_text": "If '@' = '×', '#' = '−', '$' = '+', and '&' = '÷', which equation is correct?",
+    "options": {
+      "A": "8 @ 2 $ 4 = 20",
+      "B": "10 # 4 & 2 = 3",
+      "C": "7 $ 3 @ 2 = 18",
+      "D": "12 & 3 # 1 = 5"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 20,
+    "question_text": "Find the missing term in the series: HDF, JFH, LHJ, ?, PLN",
+    "options": { "A": "NHN", "B": "NIN", "C": "NJL", "D": "NLN" },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 21,
+    "question_text": "If '+' means '−', '−' means '×', 'x' means '÷', and '÷' means '+', then find the value of: 16 + 8 − 4 × 2",
+    "options": { "A": "6", "B": "0", "C": "10", "D": "12" },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 22,
+    "question_text": "Pointing to a photograph, a woman says, \"He is the only son of my mother.\" How is the person in the photograph related to the woman?",
+    "options": { "A": "Brother", "B": "Son", "C": "Father", "D": "Husband" },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 23,
+    "question_text": "Read the given statements carefully and assume them to be true, even if they seem to be at variance with commonly known facts. Based only on the given statements, decide which of the conclusions logically follow. Statements: All images are papers. Some papers are files. Conclusions: I. Some images are files. II. Some files are papers.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both follow",
+      "D": "Neither follows"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 24,
+    "question_text": "In a certain code, PEN is written as 16-5-14, and BOOK is written as 2-15-15-11. How is NOTE written in the same code?",
+    "options": {
+      "A": "14-15-20-5",
+      "B": "13-15-20-5",
+      "C": "14-15-19-5",
+      "D": "14-15-20-4"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 25,
+    "question_text": "In the sentence \"Still waters run deep\", if each letter is coded using reverse alphabetical order (A→Z, B→Y, …), what will be the code for the 3rd letter of the 1st word?",
+    "options": { "A": "W", "B": "D", "C": "U", "D": "R" },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 26,
+    "question_text": "Who was the first Indian woman badminton player to win an individual Olympic medal?",
+    "options": {
+      "A": "P.V. Sindhu",
+      "B": "Saina Nehwal",
+      "C": "Jwala Gutta",
+      "D": "Ashwini Ponnappa"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 27,
+    "question_text": "Match the classical dance form with its state of origin: 1. Sattriya 2. Kuchipudi 3. Mohiniyattam",
+    "options": {
+      "A": "1-Assam, 2-Andhra Pradesh, 3-Kerala",
+      "B": "1-Kerala, 2-Assam, 3-Andhra Pradesh",
+      "C": "1-Andhra Pradesh, 2-Kerala, 3-Assam",
+      "D": "1-Assam, 2-Kerala, 3-Andhra Pradesh"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 28,
+    "question_text": "Which of the following is a fundamental duty under Article 51A of the Indian Constitution?",
+    "options": {
+      "A": "To provide free legal aid",
+      "B": "To protect and improve the natural environment",
+      "C": "To organize village panchayats",
+      "D": "To separate the judiciary from the executive"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 29,
+    "question_text": "Which chemical element produces green colour in firework displays?",
+    "options": {
+      "A": "Strontium",
+      "B": "Barium",
+      "C": "Sodium",
+      "D": "Copper"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 30,
+    "question_text": "Which river originates from the Amarkantak Plateau?",
+    "options": {
+      "A": "Godavari",
+      "B": "Narmada",
+      "C": "Krishna",
+      "D": "Kaveri"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 31,
+    "question_text": "What is the standard distance of a Marathon race?",
+    "options": {
+      "A": "21.09 km",
+      "B": "42.195 km",
+      "C": "50 km",
+      "D": "38.5 km"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 32,
+    "question_text": "Which of the following materials was primarily used for the construction of the 'Buland Darwaza' at Fatehpur Sikri?",
+    "options": {
+      "A": "White Marble",
+      "B": "Red and Buff Sandstone",
+      "C": "Granite",
+      "D": "Baked Bricks"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 33,
+    "question_text": "The Hornbill Festival is a major cultural event celebrated primarily in the state of ______.",
+    "options": {
+      "A": "Manipur",
+      "B": "Mizoram",
+      "C": "Nagaland",
+      "D": "Arunachal Pradesh"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 34,
+    "question_text": "In Hindustani Classical Music, the specific melodic framework is known as:",
+    "options": { "A": "Taal", "B": "Laya", "C": "Raga", "D": "Gharana" },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 35,
+    "question_text": "Who founded the Prarthana Samaj?",
+    "options": {
+      "A": "Atmaram Pandurang",
+      "B": "Jyotiba Phule",
+      "C": "Swami Dayanand Saraswati",
+      "D": "Henry Vivian Derozio"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 36,
+    "question_text": "In the Union Budget 2024–25, which sector received the highest percentage increase in allocation to promote \"Viksit Bharat\"?",
+    "options": {
+      "A": "Infrastructure",
+      "B": "Rural Development",
+      "C": "Space Economy",
+      "D": "Tourism"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 37,
+    "question_text": "Under the Pitt's India Act of 1784, the Board of Control supervised:",
+    "options": {
+      "A": "Commercial affairs only",
+      "B": "Civil and Military government and Revenues",
+      "C": "Judicial appointments only",
+      "D": "Religious and social reforms"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 38,
+    "question_text": "In Table Tennis service rules, the minimum height the ball must be thrown is:",
+    "options": { "A": "10 cm", "B": "16 cm", "C": "20 cm", "D": "25 cm" },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 39,
+    "question_text": "The SI unit \"Ohm\" measures:",
+    "options": {
+      "A": "Electric Current",
+      "B": "Potential Difference",
+      "C": "Electrical Resistance",
+      "D": "Capacitance"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 40,
+    "question_text": "The Ghoomar dance is traditionally performed by women of which community in Rajasthan?",
+    "options": { "A": "Meena", "B": "Bhil", "C": "Sahariya", "D": "Garasia" },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 41,
+    "question_text": "Match the festival with its significance: 1. Baisakhi 2. Pongal 3. Onam",
+    "options": {
+      "A": "1-Punjab (Harvest), 2-Tamil Nadu (Harvest), 3-Kerala (Harvest)",
+      "B": "1-Kerala, 2-Punjab, 3-Tamil Nadu",
+      "C": "1-Tamil Nadu, 2-Kerala, 3-Punjab",
+      "D": "1-Punjab, 2-Kerala, 3-Tamil Nadu"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 42,
+    "question_text": "Read the below statements marked as Assertion (A) and Reason (R). Mark the correct options: Assertion (A): President is the formal head of executive. Reason (R): Executive actions are taken in his/her name.",
+    "options": {
+      "A": "Both true, R explains A",
+      "B": "Both true, R not explanation",
+      "C": "A true, R false",
+      "D": "A false, R true"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 43,
+    "question_text": "Who was the Governor-General of India during the Revolt of 1857?",
+    "options": {
+      "A": "Lord Dalhousie",
+      "B": "Lord Canning",
+      "C": "Lord Curzon",
+      "D": "Lord Bentinck"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 44,
+    "question_text": "Which Indian city is known as the Silicon Valley of India?",
+    "options": {
+      "A": "Hyderabad",
+      "B": "Pune",
+      "C": "Bengaluru",
+      "D": "Noida"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 45,
+    "question_text": "In which year was the National Food Security Act passed?",
+    "options": { "A": "2011", "B": "2013", "C": "2015", "D": "2010" },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 46,
+    "question_text": "Which global agreement was specifically designed to protect the ozone layer by phasing out the production of numerous substances responsible for ozone depletion?",
+    "options": {
+      "A": "Kyoto Protocol",
+      "B": "Montreal Protocol",
+      "C": "Paris Agreement",
+      "D": "Nagoya Protocol"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 47,
+    "question_text": "Which Constitutional Amendment is known as the \"Mini-Constitution\"?",
+    "options": {
+      "A": "44th Amendment",
+      "B": "42nd Amendment",
+      "C": "73rd Amendment",
+      "D": "86th Amendment"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 48,
+    "question_text": "The Rauf folk dance is associated with which State/UT?",
+    "options": {
+      "A": "Ladakh",
+      "B": "Jammu & Kashmir",
+      "C": "Himachal Pradesh",
+      "D": "Uttarakhand"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 49,
+    "question_text": "Ascorbic Acid is a water-soluble vitamin deficiency of which leads to scurvy. Identify the correct option.",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin B12",
+      "C": "Vitamin C",
+      "D": "Vitamin D"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 50,
+    "question_text": "Which of the following crops is correctly matched with its cropping season and sowing condition in India?",
+    "options": {
+      "A": "Wheat – Kharif crop – Sown with onset of monsoon",
+      "B": "Mustard – Zaid crop – Sown in summer",
+      "C": "Maize – Kharif crop – Requires high temperature and rainfall",
+      "D": "Barley – Rabi crop – Requires heavy rainfall"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 51,
+    "question_text": "Simplify: (7/9 + 5/6) ÷ (11/12 − 2/5)",
+    "options": { "A": "262/97", "B": "272/53", "C": "282/87", "D": "290/93" },
+    "correct_option": "D"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 52,
+    "question_text": "What is the value of: (√27 + √3)² − (√12 + √3)²",
+    "options": { "A": "21", "B": "20", "C": "22", "D": "24" },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 53,
+    "question_text": "Two distinct qualities of wheat, one priced at ₹90 per kilogram and the other at ₹135 per kilogram, are mixed in an undisclosed proportion. The resultant blend is sold at ₹150 per kilogram, securing a profit margin of 25% on the overall cost price. Determine the ratio in which the two wheat varieties were mixed.",
+    "options": { "A": "1:2", "B": "2:3", "C": "3:4", "D": "1:5" },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 54,
+    "question_text": "P, Q, and R invested ₹30,000, ₹45,000, and ₹50,000 respectively. P's investment was for 14 months, Q's for 10 months, and R's for 8 months. The total profit is ₹70,000. What is Q's share of the profit?",
+    "options": {
+      "A": "₹28,125",
+      "B": "₹30,000",
+      "C": "₹24,803",
+      "D": "₹35,250"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 55,
+    "question_text": "There are 7 consecutive integers and 6 consecutive integers. The average of the 7 integers is 3 less than the average of the 6 integers. The sum of the 6 integers is 6 more than the sum of the 7 integers. Find the average of the 7 integers.",
+    "options": { "A": "7", "B": "8", "C": "12", "D": "10" },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 56,
+    "question_text": "A camera is sold at an 18% discount on its marked price. This sale leads to a profit of 25% on its cost price. If the profit earned is ₹600, what would have been the selling price if the camera was sold at a 30% discount on its marked price?",
+    "options": {
+      "A": "₹2,628.85",
+      "B": "₹2,560.90",
+      "C": "₹2,844.80",
+      "D": "₹2,920.50"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 57,
+    "question_text": "The average weight of a team of 10 players increases by 2.5 kg when two players weighing 58 kg and 62 kg are replaced by two new players. What is the average weight of these two new players?",
+    "options": { "A": "70 kg", "B": "72.5 kg", "C": "75 kg", "D": "77.5 kg" },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 58,
+    "question_text": "A laptop is available for ₹25,800 in cash or for ₹4,200 as a down payment and three equal annual instalments. If the seller charges interest at 12% per annum compounded annually, calculate the amount of each instalment.",
+    "options": { "A": "₹8,993", "B": "₹9,150", "C": "₹9,452", "D": "₹9,720" },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 59,
+    "question_text": "A clothing retailer sells a shirt for ₹Q and earns a profit of 25%. For a clearance sale, he marks the same shirt at ₹1.6Q. At the sale, he provides a discount of 15%. What will be the percentage profit during the clearance sale?",
+    "options": { "A": "68%", "B": "70%", "C": "72%", "D": "75%" },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 60,
+    "question_text": "A cylinder is melted and recast into 10 identical cones, each with radius 4 cm and height 6 cm. What was the radius of the original cylinder if its height was 8 cm?",
+    "options": {
+      "A": "7.75 cm",
+      "B": "8.25 cm",
+      "C": "6.32 cm",
+      "D": "9.45 cm"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 61,
+    "question_text": "Eighty percent of a number is 20 more than three-fifths of that number. Find the number.",
+    "options": { "A": "80", "B": "100", "C": "120", "D": "140" },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 62,
+    "question_text": "A person invested certain amounts in three different schemes A, B, and C at simple interest rates of 8% p.a., 10% p.a., and 13% p.a. respectively. If the total interest in one year was ₹3,360 and the amount invested in Scheme C was 300% of the amount in Scheme A and 400% of the amount in Scheme B, what was the amount invested in Scheme A?",
+    "options": { "A": "₹7,127", "B": "₹7,500", "C": "₹6,165", "D": "₹8,500" },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 63,
+    "question_text": "Which line has slope −2 and passes through (3,5)?",
+    "options": {
+      "A": "y = −2x + 11",
+      "B": "y = 2x + 11",
+      "C": "y = −2x − 11",
+      "D": "y = 2x − 11"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 64,
+    "question_text": "A monument stands 60 meters tall. From its peak, the angles of depression to the top and bottom of a nearby statue are measured at 30° and 60°, respectively. Determine the approximate height of the statue and the horizontal distance separating the monument from the statue.",
+    "options": {
+      "A": "height = 25.4 m, distance = 60 m",
+      "B": "height = 40 m, distance = 34.64 m",
+      "C": "height = 30 m, distance = 40 m",
+      "D": "height = 32 m, distance = 45 m"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 65,
+    "question_text": "The area of a regular octagon is made of how many congruent triangles?",
+    "options": { "A": "6", "B": "7", "C": "8", "D": "9" },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 66,
+    "question_text": "A tent designed as a rectangular prism features a rectangular base with an area of 28 m² and a height of 5 m. What is the volume of this tent?",
+    "options": { "A": "120 m³", "B": "130 m³", "C": "140 m³", "D": "150 m³" },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 67,
+    "question_text": "Simplify: √80 + √45 − √5",
+    "options": { "A": "6√5", "B": "7√5", "C": "8√5", "D": "9√5" },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 68,
+    "question_text": "A circular pond with a radius of 9 m is surrounded by a walking path that is 4.5 m wide. Determine the ratio of the area of the walking path to the area of the pond.",
+    "options": { "A": "4:3", "B": "5:4", "C": "7:4", "D": "9:5" },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 69,
+    "question_text": "P, Q, and R can complete a certain work in 24, 36, and 72 days, respectively. How many days will it take for P to finish the work if he receives help from Q and R every fourth day?",
+    "options": {
+      "A": "16 days",
+      "B": "17 days",
+      "C": "18 days",
+      "D": "19 days"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 70,
+    "question_text": "The ratio of the speeds of a train and a truck is 5 : 6. If the truck covers a distance of 450 km in 5 hours, what is the speed of the train in km/h?",
+    "options": {
+      "A": "75 km/h",
+      "B": "80 km/h",
+      "C": "85 km/h",
+      "D": "90 km/h"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 71,
+    "question_text": "Four non-overlapping, non-touching circles are drawn in a plane. What is the maximum number of distinct common tangents that can be drawn to them in total?",
+    "options": { "A": "16", "B": "18", "C": "20", "D": "24" },
+    "correct_option": "D"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 72,
+    "question_text": "Evaluate: (0.06³ + 0.02³) + (0.3³ + 0.1³)",
+    "options": { "A": "0.016", "B": "0.028", "C": "0.036", "D": "0.048" },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 73,
+    "question_text": "If m : n = 8 : 3, find (7m + 4n) : (7m − 4n).",
+    "options": { "A": "19:11", "B": "17:13", "C": "17:11", "D": "34:22" },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 74,
+    "question_text": "A chord in a circle with radius 12 cm subtends an angle of 120° at the center. What is the area of the minor segment?",
+    "options": {
+      "A": "(48π−36√3) sq. cm",
+      "B": "(36π−48√3) sq. cm",
+      "C": "(60π−36√3) sq. cm",
+      "D": "(72π−36√3) sq. cm"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 75,
+    "question_text": "In a circle, chord PQ and chord RS intersect at T such that PT : TQ = 3 : 4 and RT : TS = 6 : 5. If PQ = p and RS = q, which of the following is true?",
+    "options": {
+      "A": "p²/q² = 147/242",
+      "B": "p/q = 7/11",
+      "C": "p²/q² = 245/242",
+      "D": "p/q = 12/11"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language",
+    "question_number": 76,
+    "question_text": "Choose the correct phrasal verb: The investigator was unable to _____ the truth from the conflicting reports.",
+    "options": {
+      "A": "put off",
+      "B": "bring about",
+      "C": "sort out",
+      "D": "take over"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language",
+    "question_number": 77,
+    "question_text": "Change the following from active to passive: Someone must have altered the access codes.",
+    "options": {
+      "A": "The access codes must have been altered.",
+      "B": "The access codes must have altered by someone.",
+      "C": "The access codes must be altered by someone.",
+      "D": "The access codes must had been altered."
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language",
+    "question_number": 78,
+    "question_text": "Convert the sentence provided below from its passive voice structure to an active voice structure: A detailed plan has been prepared by the committee to address the issue.",
+    "options": {
+      "A": "The committee had prepared a detailed plan to address the issue.",
+      "B": "The committee was preparing a detailed plan to address the issue.",
+      "C": "The committee prepared a detailed plan to address the issue.",
+      "D": "The committee has prepared a detailed plan to address the issue."
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "English Language",
+    "question_number": 79,
+    "question_text": "Choose the correct one-word substitute for: \"Something that cannot be read or understood because the writing is unclear.\"",
+    "options": {
+      "A": "Illegible",
+      "B": "Decipherable",
+      "C": "Inaudible",
+      "D": "Imperceptible"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language",
+    "question_number": 80,
+    "question_text": "Select the most appropriate synonym of the given word: LOQUACIOUS",
+    "options": { "A": "Talkative", "B": "Reticent", "C": "Mute", "D": "Hear" },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language",
+    "question_number": 81,
+    "question_text": "Find the part of the sentence that contains an error: The discrepancy between predicted and observed results (1)/ raised questions not only about the methodology (2)/ but also about the premises that (3)/ underlied the entire proposal. (4)/",
+    "options": { "A": "(1)", "B": "(2)", "C": "(3)", "D": "(4)" },
+    "correct_option": "D"
+  },
+  {
+    "section": "English Language",
+    "question_number": 82,
+    "question_text": "Select the most appropriate antonym of the given word: Pungent",
+    "options": { "A": "Insipid", "B": "Spicy", "C": "Sharp", "D": "Tangy" },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language",
+    "question_number": 83,
+    "question_text": "Select correct option: He explained the concept so ___ that even complex arguments appeared easy to grasp.",
+    "options": {
+      "A": "clear",
+      "B": "clearly",
+      "C": "clarity",
+      "D": "clearness"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language",
+    "question_number": 84,
+    "question_text": "Choose the correct meaning of idiom: Sell ice to an Eskimo",
+    "options": {
+      "A": "Offer something to someone who already has plenty of it",
+      "B": "Ask guidance from specialists",
+      "C": "Criticise without any reason",
+      "D": "Wander without a plan"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language",
+    "question_number": 85,
+    "question_text": "Select the sentence containing the homonym of the highlighted word: The restorer traced a cartouche framing the monarch's inscription.",
+    "options": {
+      "A": "The museum displayed an ancient cartouche enclosing a ruler's name in hieroglyphs.",
+      "B": "The historian explained how a cartouche protected royal names on temple walls.",
+      "C": "The excavation revealed a broken cartouche beside the burial chamber.",
+      "D": "The designer added a cartouche of scrollwork to surround the portrait on the arch."
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "English Language",
+    "question_number": 86,
+    "question_text": "Select the correct option for the Direct Speech conversion of the sentence below. He remarked that, if market liquidity had disappeared completely, the exchange would have halted trading.",
+    "options": {
+      "A": "He said, \"If market liquidity disappears completely, the exchange halts trading.\"",
+      "B": "He said, \"If market liquidity had disappeared completely, the exchange would have halted trading.\"",
+      "C": "He said, \"The exchange will halt trading if market liquidity had disappeared completely.\"",
+      "D": "He said, \"If the exchange halted trading, it was because market liquidity disappeared completely.\""
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language",
+    "question_number": 87,
+    "question_text": "Choose the correct one-word substitute for: \"A vast, profound depth that appears endless.\"",
+    "options": { "A": "Crevasse", "B": "Chasm", "C": "Abyss", "D": "Ravine" },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language",
+    "question_number": 88,
+    "question_text": "Which is the correct spelling of a word meaning \"independence in decision-making\"?",
+    "options": {
+      "A": "Sovereignty",
+      "B": "Soverignty",
+      "C": "Soveriegnty",
+      "D": "Sovirignity"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language",
+    "question_number": 89,
+    "question_text": "Choose the correct meaning of idiom: Follow the rules to the letter",
+    "options": {
+      "A": "Walk behind someone physically",
+      "B": "Enlist in the armed forces",
+      "C": "Obey instructions exactly and strictly",
+      "D": "Disagree with the majority view"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language",
+    "question_number": 90,
+    "question_text": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech. She said, \"I am watching a movie.\"",
+    "options": {
+      "A": "She said she is watching a movie.",
+      "B": "She said that she was watching a movie.",
+      "C": "She said that she had watched a movie.",
+      "D": "She said she watched a movie."
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language",
+    "question_number": 91,
+    "question_text": "Rearrange the following sentences to form a meaningful passage: 1. Wind energy is considered a highly useful renewable resource. 2. It produces electricity without releasing large amounts of pollution. 3. Turbines convert wind force into electrical power. 4. However, inconsistent wind patterns remain a major limitation.",
+    "options": {
+      "A": "2-1-4-3",
+      "B": "1-2-4-3",
+      "C": "3-2-4-1",
+      "D": "4-1-2-3"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language",
+    "question_number": 92,
+    "question_text": "Choose the correctly spelled term for the body's 24-hour biological rhythm.",
+    "options": {
+      "A": "Circedian",
+      "B": "Circadian",
+      "C": "Circadiann",
+      "D": "Circadain"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language",
+    "question_number": 93,
+    "question_text": "As per the passage, what is the likely outcome when liberty is practiced without responsibility?",
+    "options": {
+      "A": "It improves legal enforcement",
+      "B": "It increases social harmony",
+      "C": "It results in misuse and social damage",
+      "D": "It ensures superior administration"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language",
+    "question_number": 94,
+    "question_text": "Why does the author refer to voting and protests in the passage?",
+    "options": {
+      "A": "To condemn citizen involvement",
+      "B": "To illustrate areas where rights must be balanced with civic duty",
+      "C": "To argue for major constitutional amendments",
+      "D": "To justify authoritarian governance"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language",
+    "question_number": 95,
+    "question_text": "What does the passage imply about citizens in relation to democratic institutions?",
+    "options": {
+      "A": "Citizens have no real impact on institutions",
+      "B": "Institutions survive on their own without public effort",
+      "C": "Citizens are essential in maintaining and protecting democracy",
+      "D": "Institutions should curtail public rights for stability"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language",
+    "question_number": 96,
+    "question_text": "How does the passage portray crises in terms of freedom within democracies?",
+    "options": {
+      "A": "Crises prove that unlimited liberty is best",
+      "B": "Crises demand complete state domination",
+      "C": "Crises expose how uncontrolled freedom can be harmful",
+      "D": "Crises reduce the importance of civil rights"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language",
+    "question_number": 97,
+    "question_text": "Which tone best captures the writer's attitude toward freedom in a democracy?",
+    "options": {
+      "A": "Bitter and rejecting",
+      "B": "Reasoned and warning",
+      "C": "Detached and unconcerned",
+      "D": "Excessively hopeful"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language",
+    "question_number": 98,
+    "question_text": "Choose the most suitable option to replace the highlighted part of the sentence: He explained for me the procedure.",
+    "options": {
+      "A": "explained me",
+      "B": "explained to me",
+      "C": "said me",
+      "D": "has explained to me"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language",
+    "question_number": 99,
+    "question_text": "Select the most appropriate antonym of the given word: Unremitting",
+    "options": {
+      "A": "Constant",
+      "B": "Unceasing",
+      "C": "Sporadic",
+      "D": "Perpetual"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language",
+    "question_number": 100,
+    "question_text": "Choose the most suitable option to replace the highlighted part of the sentence: Each of the employees have submitted the form.",
+    "options": {
+      "A": "has submitted the form",
+      "B": "have submit the form",
+      "C": "were submitting the form",
+      "D": "has submit the form"
+    },
+    "correct_option": "A"
+  }
+]
