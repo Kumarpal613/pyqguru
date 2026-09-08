@@ -1,4 +1,4 @@
-[
+{"sample test1":[
   {
     "section": "General Intelligence and Reasoning",
     "question_number": 1,
@@ -1009,4 +1009,1212 @@
     },
     "correct_option": "A"
   }
+],
+"17 Sep 2025 S1":[
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 1,
+    "question_text": "P is the sister of Q. R is the father of Q. How is R related to P?",
+    "options": {
+      "A": "Father",
+      "B": "Uncle",
+      "C": "Brother",
+      "D": "Grandfather"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 2,
+    "question_text": "Find the odd one out:",
+    "options": {
+      "A": "Copper",
+      "B": "Iron",
+      "C": "Gold",
+      "D": "Plastic"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 3,
+    "question_text": "A 20 L mixture contains milk and water in the ratio 2:3. How much milk must be added to make the ratio 4:3?",
+    "options": {
+      "A": "10 L",
+      "B": "8 L",
+      "C": "5 L",
+      "D": "9 L"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 4,
+    "question_text": "If + = ×, - = ÷, × = +, ÷ = -, then find: 24 + 6 - 2 × 4 ÷ 2 = ?",
+    "options": {
+      "A": "76",
+      "B": "72",
+      "C": "78",
+      "D": "74"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 5,
+    "question_text": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. CFG, EHI, GJK, ILM, ?",
+    "options": {
+      "A": "KNO",
+      "B": "JMN",
+      "C": "JMO",
+      "D": "KMN"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 6,
+    "question_text": "Which of the following is/are identical to the address given?\n1. Rohit Kumar, Flat 12A, Sunrise Apartments, Andheri East, Mumbai - 400069\n2. Rohit Kumar, Flat 12A, Sunrise Apartments, Andheri East, Mumbai - 400069\n3. Rohit Kumar, Flat 12-A, Sunrise Apartments, Andheri East, Mumbai - 400069\n4. Rohit Kumar, Flat 12A, Sunrise Apartment, Andheri East, Mumbai - 400069",
+    "options": {
+      "A": "1 and 2",
+      "B": "1 and 3",
+      "C": "2 and 4",
+      "D": "3 and 4"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 7,
+    "question_text": "If '+' means '×', '-' means '÷', '×' means '+' and '÷' means '-'. Find the value of: 10 ÷ 4 + 6 × 32 - 8 = ?",
+    "options": {
+      "A": "-6",
+      "B": "-8",
+      "C": "-10",
+      "D": "-12"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 8,
+    "question_text": "The following equation is correct. Which two signs should be interchanged to correct it? 24 - 6 ÷ 3 × 2 + 4 = 24",
+    "options": {
+      "A": "- and ÷",
+      "B": "× and +",
+      "C": "÷ and ×",
+      "D": "- and +"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 9,
+    "question_text": "ROADMAP is to ORADPAM as JOURNEY is to:",
+    "options": {
+      "A": "OJURYEN",
+      "B": "UOJRNEY",
+      "C": "UOJRENY",
+      "D": "OJURNEY"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 10,
+    "question_text": "If 3 # 2 = 13, 4 # 3 = 25, then 5 # 4 = ?",
+    "options": {
+      "A": "39",
+      "B": "41",
+      "C": "43",
+      "D": "45"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 11,
+    "question_text": "Statements: A > B = C, D ≤ E < B, F > A\nConclusions:\nI. F > C\nII. D < A",
+    "options": {
+      "A": "Only I is true",
+      "B": "Only II is true",
+      "C": "Both I and II are true",
+      "D": "Neither I nor II is true"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 12,
+    "question_text": "Rearrange the letters to form the name of a fruit:",
+    "options": {
+      "A": "lpeap",
+      "B": "appel",
+      "C": "paple",
+      "D": "apple"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 13,
+    "question_text": "Statement:\nThe price of petrol has increased.\nConclusions:\nI. Transportation costs may rise.\nII. People will stop using vehicles.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both follow",
+      "D": "Neither follows"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 14,
+    "question_text": "Statement:\nOnline education provides flexibility but requires reliable internet access.\nAssumptions:\nI. Students have access to the internet.\nII. Flexibility improves learning outcomes.\nIII. Internet connectivity is essential for online education.",
+    "options": {
+      "A": "Only I and III are implicit",
+      "B": "Only II and III are implicit",
+      "C": "Only I is implicit",
+      "D": "All are implicit"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 15,
+    "question_text": "Pointing to a girl, a woman said, \"She is the daughter of my brother's wife.\" How is the girl related to the woman?",
+    "options": {
+      "A": "Mother",
+      "B": "Niece",
+      "C": "Sister",
+      "D": "Cousin"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 16,
+    "question_text": "Identify the relation between Statement I and Statement II.\nStatement I: The company's sales increased this year.\nStatement II: The company expanded its distribution network.",
+    "options": {
+      "A": "I is the cause and II is the effect",
+      "B": "II is the cause and I is the effect",
+      "C": "Both are independent",
+      "D": "No relation"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 17,
+    "question_text": "What will come at the place of question mark? 7, 13, 25, 49, ?",
+    "options": {
+      "A": "95",
+      "B": "97",
+      "C": "99",
+      "D": "101"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 18,
+    "question_text": "If 20% of a number is 40, what is the number?",
+    "options": {
+      "A": "160",
+      "B": "180",
+      "C": "200",
+      "D": "240"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 19,
+    "question_text": "Choose the address that is the same as the one given below.\nNo. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+    "options": {
+      "A": "No. 21, Green Park Residency, Bhopal, MP - 462001",
+      "B": "No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+      "C": "No. 12, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+      "D": "No. 21, Green Park Residency, Indore, Madhya Pradesh - 462001"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 20,
+    "question_text": "If 7 * 2 = 98 and 9 * 3 = 243, then 5 * 4 = ?",
+    "options": {
+      "A": "100",
+      "B": "120",
+      "C": "125",
+      "D": "140"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 21,
+    "question_text": "What comes next? 2, 4, 12, 48, ?",
+    "options": {
+      "A": "230",
+      "B": "240",
+      "C": "220",
+      "D": "384"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 22,
+    "question_text": "Statement:\nCrime rates decreased after better street lighting.\nConclusions:\nI. Visibility reduces crime.\nII. Criminals prefer darkness.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both follow",
+      "D": "Neither follows"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 23,
+    "question_text": "If CAT is coded as BZS, how is DOG coded?",
+    "options": {
+      "A": "CNF",
+      "B": "CPF",
+      "C": "DNF",
+      "D": "BNF"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 24,
+    "question_text": "What comes next? BDF, EGI, HJL, ?",
+    "options": {
+      "A": "LNP",
+      "B": "KNO",
+      "C": "MPR",
+      "D": "KMO"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "General Intelligence and Reasoning",
+    "question_number": 25,
+    "question_text": "Find the odd one out: Mahatma Gandhi, Subhash Chandra Bose, Jawaharlal Nehru, Bhagat Singh, Rani Lakshmibai",
+    "options": {
+      "A": "Mahatma Gandhi",
+      "B": "Subhash Chandra Bose",
+      "C": "Jawaharlal Nehru",
+      "D": "Bhagat Singh"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 26,
+    "question_text": "Which dynasty is credited with early fortifications around the Delhi region before the Sultanate period?",
+    "options": {
+      "A": "Paramaras",
+      "B": "Chahamanas",
+      "C": "Tomaras",
+      "D": "Palas"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 27,
+    "question_text": "In Hindustani music, the term describing the permitted notes and their sequence in a raga is:",
+    "options": {
+      "A": "Tala",
+      "B": "Bandish",
+      "C": "Aroha–Avaroha",
+      "D": "Laya"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 28,
+    "question_text": "The Green Revolution in India mainly focused on:",
+    "options": {
+      "A": "Pulses",
+      "B": "Oilseeds",
+      "C": "Wheat and rice",
+      "D": "Cotton"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 29,
+    "question_text": "Consider the following statements about the Hubble Space Telescope (HST):\n1. It operates mainly in the visible, ultraviolet, and near-infrared wavelengths.\n2. It is placed in a geostationary orbit above the Earth.\n3. It has contributed to measuring the rate of expansion of the Universe.\nWhich of the above statements is/are correct?",
+    "options": {
+      "A": "Only 1 and 2",
+      "B": "Only 1 and 3",
+      "C": "Only 2 and 3",
+      "D": "All 1, 2 and 3"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 30,
+    "question_text": "Statement 1: Inflation reduces purchasing power.\nStatement 2: Inflation always benefits savers.",
+    "options": {
+      "A": "Only Statement 1 is correct",
+      "B": "Only Statement 2 is correct",
+      "C": "Both are correct",
+      "D": "Neither is correct"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 31,
+    "question_text": "Read the following statements about photosynthesis:\n1. Chlorophyll absorbs light energy.\n2. It occurs only at night.\n3. Oxygen is released as a by-product.\nWhich are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "2 and 3 only",
+      "C": "1 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 32,
+    "question_text": "Assertion (A): GST created a unified tax system.\nReason (R): It replaced multiple indirect taxes.",
+    "options": {
+      "A": "Both A and R are true and R explains A",
+      "B": "Both true but R not explanation",
+      "C": "A true, R false",
+      "D": "A false, R true"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 33,
+    "question_text": "Liberalisation refers to:",
+    "options": {
+      "A": "Increased government control",
+      "B": "Reduction of trade barriers",
+      "C": "Nationalisation",
+      "D": "Currency demonetisation"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 34,
+    "question_text": "Which of the following pairs is correctly matched?",
+    "options": {
+      "A": "Wood's Despatch — Promotion of English education system",
+      "B": "Hunter Commission — Abolition of universities",
+      "C": "Sadler Commission — Focus on primary schooling only",
+      "D": "Raleigh Commission — Vernacular press control"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 35,
+    "question_text": "The Human Development Index mainly considers:",
+    "options": {
+      "A": "Income, health, and education",
+      "B": "Population growth",
+      "C": "Inflation rate",
+      "D": "Export levels"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 36,
+    "question_text": "Match the dance with state:\n1. Bhangra   A. Gujarat\n2. Garba     B. Punjab\n3. Lavani    C. Maharashtra\n4. Yakshagana D. Karnataka",
+    "options": {
+      "A": "1-B 2-A 3-C 4-D",
+      "B": "1-A 2-B 3-D 4-C",
+      "C": "1-B 2-C 3-A 4-D",
+      "D": "1-D 2-A 3-B 4-C"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 37,
+    "question_text": "Consider the following statements about the Fifth Schedule of the Indian Constitution:\n1. It deals with the administration and control of Scheduled Areas and Scheduled Tribes.\n2. The Governor of a state with Scheduled Areas can issue regulations to restrict land transfer from tribals to non-tribals.\nWhich of the above statements is/are correct?",
+    "options": {
+      "A": "Only 1",
+      "B": "Only 2",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 38,
+    "question_text": "Perini Shivatandavam, a vigorous dance tradition associated with warrior rituals and later revived in the 20th century by Nataraja Ramakrishna, is primarily linked to which Indian state?",
+    "options": {
+      "A": "Odisha",
+      "B": "Telangana",
+      "C": "Tamil Nadu",
+      "D": "Karnataka"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 39,
+    "question_text": "Read the following statements carefully:\nStatement 1: The dockyard at Lothal indicates maritime trade activity.\nStatement 2: Harappans used standardized weights for commerce.\nWhich of the following is/are correct?",
+    "options": {
+      "A": "Only S1",
+      "B": "Only S2",
+      "C": "Both S1 and S2 are correct",
+      "D": "Neither S1 nor S2 is correct"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 40,
+    "question_text": "The annual cultural festival that showcases the traditions of multiple Naga tribes is organized to coincide with the Statehood Day of Nagaland. This festival is scheduled every year beginning on which date?",
+    "options": {
+      "A": "1 December",
+      "B": "15 January",
+      "C": "26 November",
+      "D": "5 March"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 41,
+    "question_text": "Which Article deals with the President's ordinance-making power?",
+    "options": {
+      "A": "Article 110",
+      "B": "Article 123",
+      "C": "Article 356",
+      "D": "Article 368"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 42,
+    "question_text": "Which of the following initiatives focuses on enhancing climate resilience in drought-prone regions through integrated watershed management and community participation?",
+    "options": {
+      "A": "National Afforestation Programme",
+      "B": "Integrated Watershed Management Programme",
+      "C": "Green India Mission",
+      "D": "Desert Development Scheme"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 43,
+    "question_text": "Which Mughal structure is known for its extensive use of red sandstone combined with white marble decoration?",
+    "options": {
+      "A": "Jama Masjid, Delhi",
+      "B": "Agra Fort",
+      "C": "Bibi Ka Maqbara",
+      "D": "Moti Masjid"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 44,
+    "question_text": "Which of the following statements about the Asian Games is/are correct?\n1. They are regulated by the Olympic Council of Asia.\n2. They are held every four years.",
+    "options": {
+      "A": "Only 1",
+      "B": "Only 2",
+      "C": "Both 1 and 2 are correct",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 45,
+    "question_text": "India's first individual Olympic gold medal in athletics was won in:",
+    "options": {
+      "A": "Tokyo Olympics",
+      "B": "Rio Olympics",
+      "C": "Paris Olympics",
+      "D": "Beijing Olympics"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 46,
+    "question_text": "In athletics, the term \"foul line\" is commonly associated with:",
+    "options": {
+      "A": "High jump",
+      "B": "Shot put",
+      "C": "Marathon",
+      "D": "Hurdles"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 47,
+    "question_text": "The National Games 2022 in India were hosted by:",
+    "options": {
+      "A": "Kerala",
+      "B": "Maharashtra",
+      "C": "Gujarat",
+      "D": "Punjab"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 48,
+    "question_text": "Who authored the book \"Ignited Minds\"?",
+    "options": {
+      "A": "R. Narayan",
+      "B": "A.P.J. Abdul Kalam",
+      "C": "Vikram Seth",
+      "D": "Amartya Sen"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 49,
+    "question_text": "Minimum age to become a member of Rajya Sabha is:",
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "40"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "General Awareness",
+    "question_number": 50,
+    "question_text": "India and Bhutan mainly coordinate on hydropower development and management of shared river systems through which bilateral arrangement?",
+    "options": {
+      "A": "India–Bhutan Energy Dialogue",
+      "B": "Joint Group of Experts on Hydropower",
+      "C": "South Asian Power Pool",
+      "D": "Himalayan River Commission"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 51,
+    "question_text": "The area of a triangle is 25 cm². If a similar triangle has sides three times the corresponding sides of the first triangle, find its area.",
+    "options": {
+      "A": "75 cm²",
+      "B": "150 cm²",
+      "C": "225 cm²",
+      "D": "300 cm²"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 52,
+    "question_text": "From an external point P, two tangents PA and PB are drawn to a circle. If the length of PA is 15 cm, find the length of PB.",
+    "options": {
+      "A": "10 cm",
+      "B": "12 cm",
+      "C": "15 cm",
+      "D": "18 cm"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 53,
+    "question_text": "If sinA + cosA = 7/5, find sin2A.",
+    "options": {
+      "A": "9/25",
+      "B": "24/25",
+      "C": "7/10",
+      "D": "12/25"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 54,
+    "question_text": "If A : B = 4 : 5, B : C = 6 : 7, and C : D = 10 : 11, find the compound ratio A : B : C : D.",
+    "options": {
+      "A": "48 : 60 : 70 : 77",
+      "B": "4 : 5 : 7 : 11",
+      "C": "24 : 30 : 35 : 44",
+      "D": "8 : 10 : 14 : 11"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 55,
+    "question_text": "27³ + 18³ − 45³ + 108 is equal to:",
+    "options": {
+      "A": "−65502",
+      "B": "0",
+      "C": "−46656",
+      "D": "1"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 56,
+    "question_text": "A line L is the perpendicular bisector of the line segment joining points P(4, 6) and Q(10, 2). What is the y-intercept of line L?",
+    "options": {
+      "A": "4",
+      "B": "-6.5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 57,
+    "question_text": "If the radius of a cone is doubled and its height is reduced to half, how does the volume change?",
+    "options": {
+      "A": "Becomes half of the original",
+      "B": "Becomes double of the original",
+      "C": "Remains unchanged",
+      "D": "Becomes four times the original"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 58,
+    "question_text": "If cotA = 3, find the value of (tanA + cotA).",
+    "options": {
+      "A": "10/3",
+      "B": "4/3",
+      "C": "13/3",
+      "D": "3/10"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 59,
+    "question_text": "What is the minimum number of cuts required to divide a cube into 27 equal smaller cubes?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "3"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 60,
+    "question_text": "A triangle can have:",
+    "options": {
+      "A": "Two obtuse angles",
+      "B": "One acute angle and two right angles",
+      "C": "Only one obtuse angle",
+      "D": "Three angles each equal to 70°"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 61,
+    "question_text": "If a = 0.01, b = 0.02, c = −0.03 and a + b + c = 0, find (a³ + b³ + c³) ÷ (3abc).",
+    "options": {
+      "A": "−1",
+      "B": "0",
+      "C": "1",
+      "D": "2"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 62,
+    "question_text": "A circle is inscribed in a right-angled triangle whose perpendicular sides are 9 cm and 12 cm. Find the radius of the inscribed circle.",
+    "options": {
+      "A": "2 cm",
+      "B": "3 cm",
+      "C": "4 cm",
+      "D": "5 cm"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 63,
+    "question_text": "Simplify: √(17 + 12√2)",
+    "options": {
+      "A": "4 + √2",
+      "B": "2 + 3√2",
+      "C": "3 + 2√2",
+      "D": "5 + √4"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 64,
+    "question_text": "If cosθ = 5/13 and θ lies in the first quadrant, find the value of sinθ.",
+    "options": {
+      "A": "12/13",
+      "B": "5/12",
+      "C": "13/12",
+      "D": "12/5"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 65,
+    "question_text": "A sector of a circle subtends an angle of 90° at the centre and has radius 6 cm. Another sector of the same circle subtends an angle of π/2 radians. Find the ratio of the areas of the two sectors.",
+    "options": {
+      "A": "1 : 2",
+      "B": "2 : 1",
+      "C": "1 : 1",
+      "D": "3 : 2"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 66,
+    "question_text": "Find the value of x = √(15 + √(15 + √(15 + ⋯)))",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "(1+√61)/2",
+      "D": "4"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 67,
+    "question_text": "A shopkeeper buys 9 pens for the marked price of 8 pens. He sells each pen after allowing a discount of 5% on the marked price. Find his profit percentage.",
+    "options": {
+      "A": "10%",
+      "B": "11.25%",
+      "C": "6.875%",
+      "D": "15%"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 68,
+    "question_text": "If x + y = 7 and xy = 10, find: (x³ + y³)² - 9x²y²(x + y)²",
+    "options": {
+      "A": "24011",
+      "B": "- 26411",
+      "C": "12255",
+      "D": "− 12251"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 69,
+    "question_text": "Find the slope of the line 4x − 5y = 10.",
+    "options": {
+      "A": "4/5",
+      "B": "−5/4",
+      "C": "5/4",
+      "D": "−4/5"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 70,
+    "question_text": "₹800 is lent at a certain rate of simple interest. After 4 months, another ₹1200 is lent at a rate which is twice the original rate. If the total simple interest after 1 year is ₹96, find the original rate.",
+    "options": {
+      "A": "4%",
+      "B": "5%",
+      "C": "8%",
+      "D": "7%"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 71,
+    "question_text": "A tower casts a shadow of 15 meters on the ground. If the height of the tower is 15√3 meters, find the angle of elevation of the sun.",
+    "options": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "75°"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 72,
+    "question_text": "The volume of a hemisphere is numerically equal to three times its curved surface area. Find the radius of the hemisphere.",
+    "options": {
+      "A": "9 cm",
+      "B": "10.5 cm",
+      "C": "12 cm",
+      "D": "14 cm"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 73,
+    "question_text": "A sum of ₹12000 is divided into two parts and lent at 6% and 11% simple interest respectively. If the total annual interest earned is ₹960, find the amount lent at 11%.",
+    "options": {
+      "A": "₹5000",
+      "B": "₹4800",
+      "C": "₹7000",
+      "D": "₹8000"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 74,
+    "question_text": "Pipe A can fill a tank in 18 minutes and Pipe B can fill it in 36 minutes. Both are opened together. After 6 minutes, the rate of Pipe A becomes half and Pipe B's rate becomes double. How many more minutes are required to fill the tank?",
+    "options": {
+      "A": "5 min",
+      "B": "6 min",
+      "C": "7 min",
+      "D": "8 min"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "question_number": 75,
+    "question_text": "A hollow iron sphere with an outer radius of 14 cm is melted and recast into 64 identical solid spheres, each of radius 3 cm. Find the inner radius (nearest to the integer) of the original sphere.",
+    "options": {
+      "A": "10 cm",
+      "B": "11 cm",
+      "C": "12 cm",
+      "D": "9 cm"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 76,
+    "question_text": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.\nHe said to me, \"You ought to study harder.\"",
+    "options": {
+      "A": "He said me that I ought to study harder.",
+      "B": "He told me that I ought to study harder.",
+      "C": "He told me that you ought to study harder.",
+      "D": "He told that I ought to study harder."
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 77,
+    "question_text": "Select the most appropriate synonym of the given word: EXIGUOUS",
+    "options": {
+      "A": "Meagre",
+      "B": "Immense",
+      "C": "Redundant",
+      "D": "Plentiful"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 78,
+    "question_text": "Find the word that is spelled correctly and means the quality of being harshly sarcastic.",
+    "options": {
+      "A": "Causticity",
+      "B": "Caustisity",
+      "C": "Caustyciti",
+      "D": "Costicity"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 79,
+    "question_text": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech.\nThe envoy said that only after the truce would talks commence.",
+    "options": {
+      "A": "\"Talks commence only after the truce,\" said the envoy.",
+      "B": "\"Only after the truce, talks would commence,\" said the envoy.",
+      "C": "\"Only after the truce will talks commence,\" said the envoy.",
+      "D": "\"Talks would commence once the truce is declared,\" said the envoy."
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 80,
+    "question_text": "Select the most appropriate antonym of the given word. Abrogate",
+    "options": {
+      "A": "Rescind",
+      "B": "Annul",
+      "C": "Ratify",
+      "D": "Repeal"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 81,
+    "question_text": "Choose the correct one-word substitute for: \"Extremely ancient; belonging to a very remote period.\"",
+    "options": {
+      "A": "Antiquated",
+      "B": "Medieval",
+      "C": "Antediluvian",
+      "D": "Obsolete"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 82,
+    "question_text": "Select the most appropriate synonym of the given word: LUMINOUS",
+    "options": {
+      "A": "Gloomy",
+      "B": "Murky",
+      "C": "Opaque",
+      "D": "Resplendent"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 83,
+    "question_text": "Choose the correct meaning of idiom:\nTo chew over an idea",
+    "options": {
+      "A": "Eat noisily",
+      "B": "Wander aimlessly in thought",
+      "C": "Think deeply and repeatedly",
+      "D": "Prepare aggressively for conflict"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 84,
+    "question_text": "Choose the correct one-word substitute for: \"A person who advocates reform or improvement.\"",
+    "options": {
+      "A": "Traditionalist",
+      "B": "Reactionary",
+      "C": "Reformer",
+      "D": "Absolutist"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 85,
+    "question_text": "Rearrange the following sentences in correct order to make a logical passage.\n1. The plan is approved after consent from all partners.\n2. First, a preliminary outline is drafted.\n3. Then modifications are made after consultations.\n4. Finally, implementation starts according to schedule.",
+    "options": {
+      "A": "2-3-1-4",
+      "B": "1-3-2-4",
+      "C": "3-2-1-4",
+      "D": "2-1-3-4"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 86,
+    "question_text": "Rearrange the following sentences to form a coherent paragraph:\n1. A core concept in this paradigm is the \"class,\" which serves as a template for creating objects.\n2. Object-Oriented Programming (OOP) is a paradigm built around \"objects,\" which contain data as well as methods.\n3. This enables a developer to define the structure and behavior of programs in an object-based manner.\n4. A key benefit is that it mirrors real-world entities, making large systems easier to maintain and debug.",
+    "options": {
+      "A": "2, 1, 3, 4",
+      "B": "4, 3, 2, 1",
+      "C": "3, 1, 4, 2",
+      "D": "1, 2, 3, 4"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 87,
+    "question_text": "Find the part of the sentence that contains an error:\nSeldom had the tribunal entertained an appeal (1)/ so lacking in substance, nor so plainly designed (2)/ to invite publicity rather than justice. (3)/ No error (4)/",
+    "options": {
+      "A": "(1)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(4)"
+    },
+    "correct_option": "B"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 88,
+    "question_text": "Change the following from active to passive:\nThey were broadcasting the match at 8 pm.",
+    "options": {
+      "A": "The match is broadcast at 8 pm.",
+      "B": "The match was broadcast at 8 pm.",
+      "C": "The match was being broadcast at 8 pm.",
+      "D": "The match has been broadcast at 8 pm."
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 89,
+    "question_text": "Choose the correct option:\nThe sociologist's conclusions were so contentious that they were initially ____.",
+    "options": {
+      "A": "dismissed",
+      "B": "applauded",
+      "C": "endorsed",
+      "D": "implemented"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 90,
+    "question_text": "Find the part of the sentence that contains an error:\nThe revised guideline states (1)/ that every employee must comply with (2)/ the conduct policy (3)/ regardless of their designation. (4)/",
+    "options": {
+      "A": "(1)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(4)"
+    },
+    "correct_option": "D"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 91,
+    "question_text": "Convert the sentence provided below from its passive voice structure to an active voice structure:\nA decision has been made to get the manuscript reviewed by an external committee.",
+    "options": {
+      "A": "An external committee has reviewed the manuscript.",
+      "B": "The manuscript is being reviewed by an external committee.",
+      "C": "They have decided to get the manuscript reviewed by an external committee.",
+      "D": "The manuscript was reviewed by the committee as per the decision."
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 92,
+    "question_text": "Choose the most suitable option to replace the highlighted part of the sentence:\nShe is confident to clear the interview.",
+    "options": {
+      "A": "of to clear the interview",
+      "B": "that she clears the interview",
+      "C": "of clearing the interview",
+      "D": "on clearing interview"
+    },
+    "correct_option": "C"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 93,
+    "question_text": "What concern does the passage raise about Yoga's worldwide popularity?",
+    "options": {
+      "A": "Lack of studios",
+      "B": "Dilution of its philosophical foundation",
+      "C": "Shortage of practitioners",
+      "D": "Excess control by Indian agencies"
+    },
+    "correct_option": "B",
+    "passage": "India's heritage of wellness traditions—seen in Yoga, Ayurveda, Siddha, and Unani—forms a layered blend of philosophy, physiology, and metaphysical thought. Rather than remaining frozen in time, these systems have continuously adapted, negotiating their place within local practice and global health conversations. Central to this worldview is the belief that the body is not merely a biological machine but a field of interlinked rhythms and energies. Yoga, shaped by Patanjali's Yoga Sutras, is not simply a set of postures; it is a comprehensive discipline intended to align body, mind, and consciousness. In contemporary settings, however, Yoga has often been commercialized, especially outside India, where its philosophical grounding is frequently reduced to fitness routines or stress-management tools. While this shift has expanded global appeal, it also triggers concerns about cultural appropriation and loss of intellectual depth.\n\nAyurveda views illness as an imbalance of the tridosha—vata, pitta, and kapha—forces said to govern bodily function. It emphasizes prakriti (constitution), ahara (diet), and dinacharya (daily regimen) as pillars of preventive care. Unlike allopathy's symptom-focused interventions, Indian traditional medicine aims to restore equilibrium within the body's internal ecology. This approach resonates with modern interest in personalized, preventive medicine, though the biomedical community often remains skeptical due to differences in method and proof. Government support for AYUSH reflects renewed institutional attention, yet critics warn against unquestioning promotion, pointing to limited standardized clinical trials, inconsistency in diagnostic frameworks, and difficulties in evidence-based validation. Moreover, commercial packaging of Ayurvedic products can marginalize traditional knowledge holders, turning living traditions into market commodities. The relationship between these systems and modern healthcare is therefore both hopeful and complex. Integrative models—especially in chronic care, mental health, and palliative support—may work, but they require epistemic humility and strict regulation. The risk lies in either glorifying these traditions as cure-alls or dismissing them as unscientific leftovers. Their future relevance depends on preserving philosophical depth while applying transparent, rigorous scrutiny, through dialogue rather than extremes."
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 94,
+    "question_text": "Which option best represents the Ayurvedic view of illness, as discussed?",
+    "options": {
+      "A": "Destroying pathogens through antibiotics",
+      "B": "Using synthetic drugs for instant relief",
+      "C": "Rebalancing the body through lifestyle and routine",
+      "D": "Correcting genetic defects directly"
+    },
+    "correct_option": "C",
+    "passage": "India's heritage of wellness traditions—seen in Yoga, Ayurveda, Siddha, and Unani—forms a layered blend of philosophy, physiology, and metaphysical thought. Rather than remaining frozen in time, these systems have continuously adapted, negotiating their place within local practice and global health conversations. Central to this worldview is the belief that the body is not merely a biological machine but a field of interlinked rhythms and energies. Yoga, shaped by Patanjali's Yoga Sutras, is not simply a set of postures; it is a comprehensive discipline intended to align body, mind, and consciousness. In contemporary settings, however, Yoga has often been commercialized, especially outside India, where its philosophical grounding is frequently reduced to fitness routines or stress-management tools. While this shift has expanded global appeal, it also triggers concerns about cultural appropriation and loss of intellectual depth.\n\nAyurveda views illness as an imbalance of the tridosha—vata, pitta, and kapha—forces said to govern bodily function. It emphasizes prakriti (constitution), ahara (diet), and dinacharya (daily regimen) as pillars of preventive care. Unlike allopathy's symptom-focused interventions, Indian traditional medicine aims to restore equilibrium within the body's internal ecology. This approach resonates with modern interest in personalized, preventive medicine, though the biomedical community often remains skeptical due to differences in method and proof. Government support for AYUSH reflects renewed institutional attention, yet critics warn against unquestioning promotion, pointing to limited standardized clinical trials, inconsistency in diagnostic frameworks, and difficulties in evidence-based validation. Moreover, commercial packaging of Ayurvedic products can marginalize traditional knowledge holders, turning living traditions into market commodities. The relationship between these systems and modern healthcare is therefore both hopeful and complex. Integrative models—especially in chronic care, mental health, and palliative support—may work, but they require epistemic humility and strict regulation. The risk lies in either glorifying these traditions as cure-alls or dismissing them as unscientific leftovers. Their future relevance depends on preserving philosophical depth while applying transparent, rigorous scrutiny, through dialogue rather than extremes."
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 95,
+    "question_text": "What risk linked to institutional promotion of AYUSH is mentioned in the passage?",
+    "options": {
+      "A": "Rising production costs",
+      "B": "Increased rural joblessness",
+      "C": "Traditional knowledge holders being sidelined",
+      "D": "Dependence on foreign investors"
+    },
+    "correct_option": "C",
+    "passage": "India's heritage of wellness traditions—seen in Yoga, Ayurveda, Siddha, and Unani—forms a layered blend of philosophy, physiology, and metaphysical thought. Rather than remaining frozen in time, these systems have continuously adapted, negotiating their place within local practice and global health conversations. Central to this worldview is the belief that the body is not merely a biological machine but a field of interlinked rhythms and energies. Yoga, shaped by Patanjali's Yoga Sutras, is not simply a set of postures; it is a comprehensive discipline intended to align body, mind, and consciousness. In contemporary settings, however, Yoga has often been commercialized, especially outside India, where its philosophical grounding is frequently reduced to fitness routines or stress-management tools. While this shift has expanded global appeal, it also triggers concerns about cultural appropriation and loss of intellectual depth.\n\nAyurveda views illness as an imbalance of the tridosha—vata, pitta, and kapha—forces said to govern bodily function. It emphasizes prakriti (constitution), ahara (diet), and dinacharya (daily regimen) as pillars of preventive care. Unlike allopathy's symptom-focused interventions, Indian traditional medicine aims to restore equilibrium within the body's internal ecology. This approach resonates with modern interest in personalized, preventive medicine, though the biomedical community often remains skeptical due to differences in method and proof. Government support for AYUSH reflects renewed institutional attention, yet critics warn against unquestioning promotion, pointing to limited standardized clinical trials, inconsistency in diagnostic frameworks, and difficulties in evidence-based validation. Moreover, commercial packaging of Ayurvedic products can marginalize traditional knowledge holders, turning living traditions into market commodities. The relationship between these systems and modern healthcare is therefore both hopeful and complex. Integrative models—especially in chronic care, mental health, and palliative support—may work, but they require epistemic humility and strict regulation. The risk lies in either glorifying these traditions as cure-alls or dismissing them as unscientific leftovers. Their future relevance depends on preserving philosophical depth while applying transparent, rigorous scrutiny, through dialogue rather than extremes."
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 96,
+    "question_text": "What position does the author take regarding combining traditional medicine with modern healthcare?",
+    "options": {
+      "A": "Traditional systems should replace allopathy",
+      "B": "Modern medicine must reject tradition",
+      "C": "Integration can work with humility and regulation",
+      "D": "Both should remain strictly separate"
+    },
+    "correct_option": "C",
+    "passage": "India's heritage of wellness traditions—seen in Yoga, Ayurveda, Siddha, and Unani—forms a layered blend of philosophy, physiology, and metaphysical thought. Rather than remaining frozen in time, these systems have continuously adapted, negotiating their place within local practice and global health conversations. Central to this worldview is the belief that the body is not merely a biological machine but a field of interlinked rhythms and energies. Yoga, shaped by Patanjali's Yoga Sutras, is not simply a set of postures; it is a comprehensive discipline intended to align body, mind, and consciousness. In contemporary settings, however, Yoga has often been commercialized, especially outside India, where its philosophical grounding is frequently reduced to fitness routines or stress-management tools. While this shift has expanded global appeal, it also triggers concerns about cultural appropriation and loss of intellectual depth.\n\nAyurveda views illness as an imbalance of the tridosha—vata, pitta, and kapha—forces said to govern bodily function. It emphasizes prakriti (constitution), ahara (diet), and dinacharya (daily regimen) as pillars of preventive care. Unlike allopathy's symptom-focused interventions, Indian traditional medicine aims to restore equilibrium within the body's internal ecology. This approach resonates with modern interest in personalized, preventive medicine, though the biomedical community often remains skeptical due to differences in method and proof. Government support for AYUSH reflects renewed institutional attention, yet critics warn against unquestioning promotion, pointing to limited standardized clinical trials, inconsistency in diagnostic frameworks, and difficulties in evidence-based validation. Moreover, commercial packaging of Ayurvedic products can marginalize traditional knowledge holders, turning living traditions into market commodities. The relationship between these systems and modern healthcare is therefore both hopeful and complex. Integrative models—especially in chronic care, mental health, and palliative support—may work, but they require epistemic humility and strict regulation. The risk lies in either glorifying these traditions as cure-alls or dismissing them as unscientific leftovers. Their future relevance depends on preserving philosophical depth while applying transparent, rigorous scrutiny, through dialogue rather than extremes."
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 97,
+    "question_text": "According to the passage, what is essential for the continued relevance of Yoga and traditional medicine in India?",
+    "options": {
+      "A": "Unquestioning patriotism",
+      "B": "Complete scientific dismissal",
+      "C": "A dialogic integration of tradition and modernity",
+      "D": "Reliance only on foreign approval"
+    },
+    "correct_option": "C",
+    "passage": "India's heritage of wellness traditions—seen in Yoga, Ayurveda, Siddha, and Unani—forms a layered blend of philosophy, physiology, and metaphysical thought. Rather than remaining frozen in time, these systems have continuously adapted, negotiating their place within local practice and global health conversations. Central to this worldview is the belief that the body is not merely a biological machine but a field of interlinked rhythms and energies. Yoga, shaped by Patanjali's Yoga Sutras, is not simply a set of postures; it is a comprehensive discipline intended to align body, mind, and consciousness. In contemporary settings, however, Yoga has often been commercialized, especially outside India, where its philosophical grounding is frequently reduced to fitness routines or stress-management tools. While this shift has expanded global appeal, it also triggers concerns about cultural appropriation and loss of intellectual depth.\n\nAyurveda views illness as an imbalance of the tridosha—vata, pitta, and kapha—forces said to govern bodily function. It emphasizes prakriti (constitution), ahara (diet), and dinacharya (daily regimen) as pillars of preventive care. Unlike allopathy's symptom-focused interventions, Indian traditional medicine aims to restore equilibrium within the body's internal ecology. This approach resonates with modern interest in personalized, preventive medicine, though the biomedical community often remains skeptical due to differences in method and proof. Government support for AYUSH reflects renewed institutional attention, yet critics warn against unquestioning promotion, pointing to limited standardized clinical trials, inconsistency in diagnostic frameworks, and difficulties in evidence-based validation. Moreover, commercial packaging of Ayurvedic products can marginalize traditional knowledge holders, turning living traditions into market commodities. The relationship between these systems and modern healthcare is therefore both hopeful and complex. Integrative models—especially in chronic care, mental health, and palliative support—may work, but they require epistemic humility and strict regulation. The risk lies in either glorifying these traditions as cure-alls or dismissing them as unscientific leftovers. Their future relevance depends on preserving philosophical depth while applying transparent, rigorous scrutiny, through dialogue rather than extremes."
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 98,
+    "question_text": "Choose the correct spelling of a word meaning \"light, witty talk or banter.\"",
+    "options": {
+      "A": "Persiflage",
+      "B": "Persiflaige",
+      "C": "Persiphlege",
+      "D": "Persiflagee"
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 99,
+    "question_text": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.\nThe researcher said, \"We have been observing this phenomenon for months.\"",
+    "options": {
+      "A": "The researcher said they had been observing that phenomenon for months.",
+      "B": "The researcher said they have been observing this phenomenon for months.",
+      "C": "The researcher said that they were observing that phenomenon.",
+      "D": "The researcher said that we had observed this phenomenon."
+    },
+    "correct_option": "A"
+  },
+  {
+    "section": "English Language and Comprehension",
+    "question_number": 100,
+    "question_text": "Select the sentence containing the homonym of the highlighted word:\nThe bishop denounced the act as simony, citing church law.",
+    "options": {
+      "A": "The cleric was charged with simony for selling sacred offices.",
+      "B": "Historians noted that simony corrupted many medieval appointments.",
+      "C": "The chemist measured the simony of the compound under pressure.",
+      "D": "Simony was condemned repeatedly by reform councils."
+    },
+    "correct_option": "C"
+  }
 ]
+}

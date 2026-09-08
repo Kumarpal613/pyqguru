@@ -1,42 +1,47 @@
-function StartPage({ onStart }) {
+import { useEffect, useState } from "react";
+
+const baseurl = import.meta.env.VITE_API_URL || "";
+
+function StartPage({ onSelectExam }) {
+  const [exams, setExams] = useState([]);
+  const [error, setError] = useState("");
+
+  useEffect(() => {
+    async function fetchExams() {
+      try {
+        const response = await fetch(`${baseurl}/api/exams`);
+        if (!response.ok) throw new Error("Unable to load exams.");
+        setExams(await response.json());
+      } catch (requestError) {
+        setError(requestError.message);
+      }
+    }
+    fetchExams();
+  }, []);
+
   return (
-    <main className="start-page">
-      <section className="start-card" aria-labelledby="start-title">
-        <div className="start-brand-mark" aria-hidden="true">
-          PG
-        </div>
-        <p className="start-kicker">PYQGURU / PRACTICE ARENA</p>
-        <h1 id="start-title">
-          SSC CGL
-          <br />
-          PYQ Test
-        </h1>
-        <p className="start-intro">
-          Sharpen your exam strategy with a focused previous-year question paper
-          and a clear performance breakdown at the end.
+    <main className="home-page">
+      <section className="home-content">
+        <p className="home-brand">PYQ GURU</p>
+        <p className="home-eyebrow">EXAM PRACTICE MADE FOCUSED</p>
+        <h1>What exam are you preparing for?</h1>
+        <p className="home-description">
+          Choose an exam to open its previous-year papers and practice section by section.
         </p>
-
-        <div className="start-details" aria-label="Test details">
-          <div>
-            <strong>100</strong>
-            <span>Questions</span>
-          </div>
-          <div>
-            <strong>15 min</strong>
-            <span>Time limit</span>
-          </div>
-          <div>
-            <strong>+2 / −0.5</strong>
-            <span>Marking</span>
-          </div>
+        {error && <p className="start-error">{error}</p>}
+        {!error && exams.length === 0 && <p className="start-loading">Loading exams...</p>}
+        <div className="exam-home-grid">
+          {exams.map((exam) => (
+            <button className="exam-home-card" type="button" key={exam.id} onClick={() => onSelectExam(exam)}>
+              <span className="exam-home-icon" aria-hidden="true">SSC</span>
+              <span className="exam-home-copy">
+                <strong>{exam.title}</strong>
+                <small>{exam.tests.length} papers available</small>
+              </span>
+              <span className="exam-home-arrow" aria-hidden="true">View papers</span>
+            </button>
+          ))}
         </div>
-
-        <button className="start-button" onClick={onStart}>
-          Start Test <span aria-hidden="true">→</span>
-        </button>
-        <p className="start-note">
-          Take your time. Review every answer after submission.
-        </p>
       </section>
     </main>
   );

@@ -1,30 +1,32 @@
-import StartPage from "./pages/StartPage";
-import ResultsPage from "./pages/ResultsPage";
-import TestPage from "./pages/TestPage";
 import { useState } from "react";
+import ExamPapersPage from "./pages/ExamPapersPage";
+import ResultsPage from "./pages/ResultsPage";
+import StartPage from "./pages/StartPage";
+import TestPage from "./pages/TestPage";
 
 function App() {
-  const [started, setStarted] = useState(false);
+  const [selectedExam, setSelectedExam] = useState(null);
+  const [selectedTest, setSelectedTest] = useState(null);
   const [results, setResults] = useState(null);
-
-  function startTest() {
-    setStarted(true);
-  }
 
   function exitResults() {
     setResults(null);
-    setStarted(false);
+    setSelectedTest(null);
+    setSelectedExam(null);
   }
 
-  if (!started) {
-    return <StartPage onStart={startTest} />;
+  if (results) return <ResultsPage {...results} onExit={exitResults} />;
+  if (selectedTest) return <TestPage selectedTest={selectedTest} onComplete={setResults} />;
+  if (selectedExam) {
+    return (
+      <ExamPapersPage
+        exam={selectedExam}
+        onBack={() => setSelectedExam(null)}
+        onStart={setSelectedTest}
+      />
+    );
   }
-
-  if (results) {
-    return <ResultsPage {...results} onExit={exitResults} />;
-  }
-
-  return <TestPage onComplete={setResults} />;
+  return <StartPage onSelectExam={setSelectedExam} />;
 }
 
 export default App;

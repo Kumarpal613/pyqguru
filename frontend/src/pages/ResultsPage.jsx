@@ -1,8 +1,6 @@
 import { useState } from "react";
 
-const baseurl = import.meta.env.VITE_API_URL;
-
-function ResultsPage({ submission, onExit }) {
+function ResultsPage({ submission, selectedTest, onExit }) {
   const [collapsedSections, setCollapsedSections] = useState({});
 
   const results = submission.results || [];
@@ -60,7 +58,7 @@ function ResultsPage({ submission, onExit }) {
     <main className="results-page">
       <header className="results-header">
         <div>
-          <p className="results-kicker">SSC CGL PYQ TEST</p>
+          <p className="results-kicker">{selectedTest?.examTitle || "SSC CGL"} · {selectedTest?.testTitle || "PYQ TEST"}</p>
           <h1>Test Results</h1>
           <p>Your complete answer analysis is ready.</p>
         </div>
